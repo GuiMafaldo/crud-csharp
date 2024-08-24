@@ -2,7 +2,7 @@
 
  ### INSTALE OS SEGUINTES COMANMDOS PARA PODER CRIAR AS MIGRATIONS
 
-  dotnet add package Microsoft.EntityFrameworkCore
+  dotnet add package Microsoft.EntityFrameworkCore <br />
   dotnet add package Microsoft.EntityFrameworkCore.Desing
   
   ###
