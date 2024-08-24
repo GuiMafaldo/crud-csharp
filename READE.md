@@ -1,5 +1,12 @@
  ###   Caminhos para criação do CRUD em C# ###
 
+ ### INSTALE OS SEGUINTES COMANMDOS PARA PODER CRIAR AS MIGRATIONS
+
+  dotnet add package Microsoft.EntityFrameworkCore
+  dotnet add package Microsoft.EntityFrameworkCore.Desing
+  
+  ###
+
 
 
  ### 1 - Pasta Context contem o construtor "inicializador do banco de dados" ###
